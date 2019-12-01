@@ -99,7 +99,7 @@ void process_line(string line,ifstream reader){
 void lin_solve(ifstream reader,int num_eq){
 	Result ret;
 	
-	string line;
+	//string line;
 	
 	while(1)
 	{		
